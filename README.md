@@ -2,7 +2,6 @@
 Common algorithms, tips and tricks that a pythoneer or a pythonista might need during the adventures or coding interviews.
 <br/><br/><br/>
 ## Reverse an Integer
----
 
 ```python
 def reverse_integer(x):
@@ -18,7 +17,6 @@ def reverse_integer(x):
 ```
 <br/><br/><br/>
 ## Move Zeros to the end of the array
----
 
 ```python
 
